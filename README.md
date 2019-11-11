@@ -1,3 +1,3 @@
 # Introduction
 
-> Introduction of An awesome project.
+> An awesome project.
