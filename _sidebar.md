@@ -8,6 +8,7 @@
 - CONCEPTS
   - [SSO](sso.md)
   - [OTA](ota.md)
-  - [Device types](devicetypes.md)
+  - [HMTS](hmts.md)
 
 - BIFROST
+  - [Pipeline](pipeline.md)
