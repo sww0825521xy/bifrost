@@ -1,3 +1,3 @@
 # Introduction
 
-> An awesome project.
+> docsify serve bifrost

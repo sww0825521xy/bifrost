@@ -13,7 +13,7 @@ Bifrost's main features are:
 ### Components
 The Bifrost ecosystem consists of multiple components, many of which are optional:
 - connected platform which manage android devices and bare metals connectivity
-- Bifrost which trigger automatic tests on connected devices
+- Bifrost service which trigger automatic tests on connected devices
 - HMTS(Honeywell Mobility Test Suit), collection of Honeywell value added test cases
 - Android device agent and Bare metal agent(mainly for CTS,GTS purpose)
 - CAS(Single Sign On platform with Honeywell LDAP) and OTA(Service for query available OS images)
