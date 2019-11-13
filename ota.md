@@ -14,4 +14,6 @@ Service for query available OS images in Artifactoy
 	 * @return
 	 */
 http://172.31.48.11:8087/upgrade/os/available/{device_name}/{android_version}/{branch}/{gms_flag}/{user_flag}/{page}/{pageSize}
+
+http://172.31.48.11:8087/upgrade/os/available/hon660/8/0/1/1/1/10
 ```
