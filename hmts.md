@@ -10,6 +10,7 @@ HMTS(Honeywell Mobility Test Suit), Honeywell customized test suit including:
 - certification
 
 ## HMTS repo 
+> [HMTS](https://review.android.honeywell.com:8088/#/admin/projects/ADCD/AndroidAutomationTest)
 
 ```bash
 git clone ssh://EID@review.android.honeywell.com:29426/ADCD/AndroidAutomationTest

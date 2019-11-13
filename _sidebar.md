@@ -2,17 +2,19 @@
 
 - INTRODUCTION
   - [Overview](overview.md)
-  - [First steps](firststeps.md)
-  - [Roadmap](roadmap.md)
   - [Requirement](requirement.md)
+  - [Roadmap](roadmap.md)
 
 - CONCEPTS
   - [SSO](sso.md)
   - [OTA](ota.md)
   - [HMTS](hmts.md)
   - [Connected](connected.md)
+  - [Elastic](elastic.md)
+  - [Frontail](frontail.md)
 
 - BIFROST
+  - [First steps](firststeps.md)
   - [Agent](agent.md)
   - [Service](service.md)
   - [Case Management](case.md)
