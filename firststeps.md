@@ -71,7 +71,7 @@ sudo docker run --name=bifrost -d -v /home/weiweishen/deploy/keystore/:/opt/keys
 #### Nginx Deploy
 ```bash
 ssh 172.31.48.11
-sudo docker run -p 80:80 --name my-custom-nginx-container -v /home/weiweishen/tools/logs:/logs -v /home/weiweishen/deploy/nginx/conf/nginx.conf:/etc/nginx/nginx.conf:ro -d nginx
+sudo docker run -p 80:80 --name my-custom-nginx-container -v /home/weiweishen/deploy/docs/bifrost:/docs/bifrost -v /home/weiweishen/tools/logs:/logs -v /home/weiweishen/deploy/nginx/conf/nginx.conf:/etc/nginx/nginx.conf:ro -d nginx
 ```
 ---
 #### Filebeat Deploy
