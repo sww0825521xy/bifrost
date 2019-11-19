@@ -8,8 +8,8 @@ hmts_version : 01.00.00.0199
 ## Case Auto Import Process
 1. Jenkins build HMTS and push to Artifactory [HMTS](http://artifactory.android.honeywell.com:8080/artifactory/list/libs-snapshot-local/Honeywell/ADCD/HON660/HMTS/)
 2. Jenkins call the auto import interface and pass the hmts version parameter
-3. Bifrost service will download AndroidTest.xml from Artifactory
-4. Parse AndroidTest.xml and generate test case command then insert into database
+3. Bifrost service will download `AndroidTest.xml` from Artifactory
+4. Parse `AndroidTest.xml` and generate test case command then insert into database
 
 ## Test Case Command Example
 ```json

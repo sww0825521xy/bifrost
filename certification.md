@@ -1,6 +1,6 @@
 # CERTIFICATION {docsify-ignore-all}
 
-## Test suit path config in table cats.bare_mental
+## Test suit path config in table `cats.bare_mental`
 | BARE_MENTAL_ID | BARE_MENTAL_SN | CERT_TYPE | AND_VERSION | CERT_VERSION | CERT_PATH | CERT_COMMAND | BARE_MENTAL_EXTRA |
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- |
 |2| 5HR5822| CTS| P| R6| Google/p/android-cts-9.0_r6-linux_x86-arm/android-cts/tools| ./cts-tradefed| NULL |

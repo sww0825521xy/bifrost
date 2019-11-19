@@ -12,6 +12,7 @@
   - [Connected](connected.md)
   - [Elastic](elastic.md)
   - [Frontail](frontail.md)
+  - [Quartz](quartz.md)
 
 - BIFROST
   - [First steps](firststeps.md)
