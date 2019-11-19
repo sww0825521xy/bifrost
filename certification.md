@@ -10,10 +10,8 @@
 |6| 2VNHF3X| CTS| P| R9| Google/p/android-cts-9.0_r9-linux_x86-arm/android-cts/tools| ./cts-tradefed| NULL |
 
 ## Bare mental SSH config
-```bash
-username:swt 
-password:HON123well
-```
+username:`swt` 
+password:`HON123well`
 ## Bare mental agent deploy
 ```bash
 java -jar agent-0.0.1-SNAPSHOT.jar
@@ -67,15 +65,15 @@ POST http://172.31.48.11:8080/cats/certification/trigger/190
 
 ![h2](_images/localdb.PNG)
 
-```bash
-JDBC URL  : jdbc:h2:~/bifrost
-User Name : root
-Password  : 123456
-```
-> Table TETHER_DEVICE
+JDBC URL  : `jdbc:h2:~/bifrost`
+User Name : `root`
+Password  : `123456`
+
+
+> Table `TETHER_DEVICE`
 
 ![cicommand](_images/Cicommand.PNG)
 
-> Table CICOMMAND
+> Table `CICOMMAND`
 
 ![tether_device](_images/tether_device.PNG)

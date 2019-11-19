@@ -6,7 +6,7 @@
 
 * Simple and easy deploy
 * Simultaneously job dispatch
-* Pipeline
+* Pipeline dispatch
 
 [Bifrost](http://cd.android.honeywell.com:8080/cats/)
 [Get Started](overview)
