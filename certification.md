@@ -1,5 +1,7 @@
 # CERTIFICATION {docsify-ignore-all}
+> [http://cd.android.honeywell.com:8080/cats/pipelineresult?id=11816](http://cd.android.honeywell.com:8080/cats/pipelineresult?id=11816)
 
+![pipeline](_images/pipeline_CTS.png)
 ## Test suit path config in table `cats.bare_mental`
 | BARE_MENTAL_ID | BARE_MENTAL_SN | CERT_TYPE | AND_VERSION | CERT_VERSION | CERT_PATH | CERT_COMMAND | BARE_MENTAL_EXTRA |
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- |
@@ -44,7 +46,7 @@ POST http://172.31.48.11:8080/cats/certification/trigger/190
 
 ## Real time log display
 ```bash
-
+docker run -d -p 80:9001 -v /home/swt/logs:/log mthenw/frontail /log/bifrost.log
 ```
 > [http://172.31.49.37/](http://172.31.49.37/)
 

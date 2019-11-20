@@ -21,3 +21,4 @@
   - [Case Management](case.md)
   - [Pipeline](pipeline.md)
   - [CTS&&GTS](certification.md)
+  - [Server](server.md)
