@@ -1,7 +1,7 @@
 # CERTIFICATION {docsify-ignore-all}
 > [http://cd.android.honeywell.com:8080/cats/pipelineresult?id=11816](http://cd.android.honeywell.com:8080/cats/pipelineresult?id=11816)
 
-![pipeline](_images/pipeline_CTS.png)
+![pipeline](_images/pipeline_CTS.PNG)
 ## Test suit path config in table `cats.bare_mental`
 | BARE_MENTAL_ID | BARE_MENTAL_SN | CERT_TYPE | AND_VERSION | CERT_VERSION | CERT_PATH | CERT_COMMAND | BARE_MENTAL_EXTRA |
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- |
