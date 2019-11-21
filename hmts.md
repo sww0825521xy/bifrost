@@ -79,7 +79,7 @@ trigger CTS single module
 
 ### single certification test case config
 ```xml
-        <!--HardwareAccelerationTest#testIsHardwareAccelerated for Android P-->
+    <!--HardwareAccelerationTest#testIsHardwareAccelerated for Android P-->
     <test name="IsHardwareAccelerated" caselevel="L8" runtime="86400" component="Certification-CTS" platform="P" type="trigger">
         <option name="cmd" value="run cts --module CtsAccelerationTestCases --test android.acceleration.cts.HardwareAccelerationTest#testIsHardwareAccelerated -s %s " />
     </test>
