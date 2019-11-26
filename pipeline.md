@@ -106,6 +106,8 @@ POST http://cd.android.honeywell.com:8080/cats/pipeline/trigger/905
     "userFlag": true
 }
 ```
+> branchFlag: `0:master 1:release 2:commit 3:weekly`
+
 
 ## Pipeline dispatch algorithm
 

@@ -43,6 +43,7 @@ POST http://172.31.48.11:8080/cats/certification/trigger/190
     "shard": 1
 } 
 ```
+> branchFlag: `0:master 1:release 2:commit 3:weekly`
 
 ## Real time log display
 ```bash
